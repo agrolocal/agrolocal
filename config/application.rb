@@ -14,5 +14,8 @@ module Agrolocal
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
+
+    # Set default locale to spanish
+    config.i18n.default_locale = :es
   end
 end
