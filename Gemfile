@@ -55,3 +55,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Rails I18n
 gem 'rails-i18n', '~> 5.0.0' # For 5.0.x and 5.1.x
+
+# Devise
+gem 'devise'
+gem 'devise-i18n'
