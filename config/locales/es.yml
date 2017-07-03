@@ -4,6 +4,9 @@ es:
     models:
       farmer: "Agricultor"
     attributes:
+      user:
+        name: "Nombre"
+        city: "Ciudad"
       farmer:
         biography: "Biografía"
         phone: "Teléfono"
