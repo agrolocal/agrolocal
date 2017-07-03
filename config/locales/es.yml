@@ -1,0 +1,9 @@
+es:
+  hello: "Hola"
+  activerecord:
+    models:
+      farmer: "Agricultor"
+    attributes:
+      farmer:
+        biography: "Biografía"
+        phone: "Teléfono"
