@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  description: MyString
+  ecological: false
+  latitude: 9.99
+  longitude: 9.99
+  price: 9.99
+  photo: MyString
+  product: one
+  farmer: one
+
+two:
+  description: MyString
+  ecological: false
+  latitude: 9.99
+  longitude: 9.99
+  price: 9.99
+  photo: MyString
+  product: two
+  farmer: two
